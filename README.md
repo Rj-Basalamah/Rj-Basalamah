@@ -23,7 +23,10 @@
 <a href="https://github.com/Rj-Basalamah"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Rj-Basalamah&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/Rj-Basalamah"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/rj.basalamah"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/085755085745"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/ing.rouf"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+##### MY SOCIAL MEDIA
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Rj-Basalamah) 
+[![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/r_kecil)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/rj.basalamah)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/ing.rouf) 
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285755085745?text=Asalamualaikum+bang)
+[![](https://img.shields.io/badge/Messenger-black?logo=Messenger&logoColor=blue&labelColor=white)](https://m.me/rj.basalamah)
