@@ -1,70 +1,38 @@
-- <h1 align="center">🛑 WELCOME TO GITHUB FREZZY-XD 🛑</h1>
-![IMG_20220320_184923_554](https://telegra.ph/file/c744e9d823ae3db3fd159.jpg)
+<!-- Github README -->
+<p align="center"><a href="https://github.com/htr-tech">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
-<p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Salam+One+Heart+😍+From+Indonesia.;I'am+Not+Programmer." alt="Frezzy-XD">
+<h2><b><i>Howdy , it's Tahmid Rayat 👋</i></b></h2>
+<b><i>💻 I'm a Student & A part time Programmer</i></b>
 
-</p>
-<h1 align="center">🎧 Frezzy-XD</h1>
-<p align="center">
-  <a href="https://github.com/Frezzy-XD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Hello+Guys!+Im+owner+KAHFI MAKER;My+Name+is+🐼 Frezzy-XD;Learning+JavaScript!;Please+Support+Me+With+Donate;Thanks🥰" alt="UwU">
-</p>
+<h3><b><i>🤠 About me :</i></b></h3>
+<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
+<li> 😇 <i>Muslim</i></li>
+<li> 😐 <i>Studying at Kindergarten</i></li>
+<li> 😪 <i>Love Sleeping</i></li>
+<li> 💔 <i>Born Single</i></li>
+<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
+<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
-<p align="center">
-<a href="https://github.com/Frezzy-XD"><img title="Author" src="https://img.shields.io/badge/Frezzy-XD-blue.svg?style=for-the-badge&logo=github"></a>
- </p>
- <h4 align="center">
-  <a
-  <a href="https://wa.me/6285380166282">If there is a need, you can directly chat with me </a>
-</h4>
-</p>
+<h3><b><i>☠ Works :</i></b></h3>
+<li> <a href="https://github.com/htr-tech/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
+<li> <a href="https://github.com/htr-tech/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
+<li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
+<li> <a href="https://github.com/htr-tech/host">Host - Temporarily Host Files from your device with this tool.</a>
+<li> <a href="https://github.com/htr-tech/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
+<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
 
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-## ```🛑 ABOUT ME```
-```bash
-- 👋 Hello, I’m @Frezzy-XD
-- 👀 I’m interested in the media
-- 🌱 I'm just a beginner in this field
-- 💞️ I don't care what people say about me, I just want to give this a try
-- 📫 I'am not a developer, I'm not a mastah and I'm not a temperature
-```
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
 
-## ```🛑 FOLLOW SOSIAL MEDIA ME```
-<p align="center">
-<a href="https://instagram.com/kahfi_maker"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285380166282"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw"><img src="https://img.shields.io/badge/YOUTUBE Maxxy Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/hokenbeusz" /><br>
-<a href="https://www.tiktok.com/@maxxy_0t"><img src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@unfaedahkan" /></a>
-</p>
-
-## ```🛑 SUPPORT DENGAN CARA DONASI```
-
-- [`DANA`](https://wa.me/6285380166282?text=banh+ini+nomor+nya+kah+085380166282+?)
-- [`PULSA`](https://wa.me/6285380166282?text=banh+ini+nomor+nya+kah+085380166282+?)
-> Jika ingin berdonasi lewat link
-> Klik [ SAWERIA ](https://saweria.co/MaxxyBotz)
-
-## ```🛑 GROUP BOT```
-
-- [`GROUP WA BOT¹`](https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt)
-- [`GROUP SLAYER`](https://chat.whatsapp.com/C9Ddd11XyL58cwLMhPRqkJ)
-  
-## ```🛑 WHATSAPP ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓```
-  CHAT SAYA JIKA ANDA INGIN MENANYAKAN SESUATU🚀
-- [`WHATSAPP ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`](https://wa.me/6285380166282?text=Assalamualaikum+Banh+ᴋᴀʜꜰɪ+ᴍᴀᴋᴇʀ✓)
-
-## ```🛑 CREATOR BOT```
- [![KrizynOc](https://github.com/Frezzy-XD.png?size=200)](https://github.com/Frezzy-XD) 
----->
-[ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓](https://github.com/Frezzy-XD) 
- CREATOR
-  
-
-## ```🛑 AUTHOR```
- 
-  [ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓](https://github.com/Frezzy-XD)
- AUTHOR
-
-<!---
-I LOVE YOU GUYS
---->
+<h3><b><i>📡 Get in Touch :</i></b></h3>
+<a href="https://github.com/htr-tech"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
+<a href="https://fb.com/tahmid.rayat.official"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
+<a href="https://m.me/tahmid.rayat.official"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
+<a href="https://www.instagram.com/tahmid.rayat"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
