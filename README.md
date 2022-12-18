@@ -21,3 +21,4 @@
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/Rj-Basalamah"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Rj-Basalamah&color=blueviolet&style=flat-square"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKING110&layout=compact" alt="Top language">
