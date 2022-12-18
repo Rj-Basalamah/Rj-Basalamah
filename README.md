@@ -23,5 +23,6 @@
 <a href="https://github.com/Rj-Basalamah"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Rj-Basalamah&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
+* FOR CONTACT :
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/Rj-Basalamah)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/rj.basalamah)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6285755085745)
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
