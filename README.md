@@ -23,4 +23,4 @@
 <a href="https://github.com/Rj-Basalamah"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Rj-Basalamah&color=blueviolet&style=flat-square"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKING110&layout=compact" alt="Top language">
 
-<a href="https://github.com/AKING110/BXI"><img title="BXI" src="https://github-readme-stats.vercel.app/api/pin/?username=AKING110&repo=BXI&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Rj-Basalamah/NoIdent"><img title="NoIdent" src="https://github-readme-stats.vercel.app/api/pin/?username=Rj-Basalamah&repo=NoIdent&theme=vision-friendly-dark"></a>
